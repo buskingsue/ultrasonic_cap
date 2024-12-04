@@ -1,6 +1,6 @@
-# 1. Bluetooth 통신 master 브랜치
-##
-# 2. LCD I2C통신 LCD_I2C 브랜치
+# 초음파 센서 cap, int
+## TRIGGER_PIN D포트 6번, ECHO_PIN D포트 3번
+# 
 ##
 ## 현재 브랜치 확인 명령어 git branch
 ##
