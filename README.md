@@ -1,6 +1,6 @@
 # 초음파 센서 cap, int
 ## TRIGGER_PIN D포트 6번, ECHO_PIN D포트 3번
-# 
+# src 폴더 안에 common 폴더와 driver폴더가 있음
 ##
 ## 현재 브랜치 확인 명령어 git branch
 ##
